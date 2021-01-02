@@ -1,0 +1,70 @@
+
+Welcome Debayan 2020-10-08 22:44:50.529360
+The length of clear span: 8000 
+Effective clear cover:30 
+Total Depth of the beam(with clear cover):563 
+Total Breadth of the beam 300 
+concrete M25 
+Steel Fe415 
+Self weight of the beam 4 
+Total uniformly distributed load on the beam including self wt. is 24 
+Ultimate UDL after applyiny safety factor 1.5 is 36 
+The effective length of the beam 8 
+Beading moment on the both end of the beam 312 
+Shear Force of the beam 150 
+Now depth checking.
+Required depth of the beam 549 
+Provided depth of the beam 533 
+so...
+Maximum moment can be taken by the beam 294 
+Bendign moment generate 312 
+so ..
+Area of the steel required 2070 
+Provide 7  - 20mm phi @ tension side.
+So, the area of the steel will be 2199 
+Minimum and Maximum steel required in tension side 327and 6760 
+so..
+Nominal shear stress 0 
+Persentage of nominal reinforcement 1 
+From IS456:2000 tablw 19 critical shear will be 0 
+As the critical shear is less than nominal shear so, we will provide vertical stirrups.
+Shear resistance of concrete 115 
+Shear carried by the stirrups 35 
+Some spacing values for providing stirrups 543.5450856950844,  302.47254068762527,  400.0 
+So, provide 8 mm phi 2LVS @ 300mm c/c.
+
+
+Welcome  2020-10-24 13:06:39.890378
+The length of clear span: 8000 
+Effective clear cover:30 
+Total Depth of the beam(with clear cover):563 
+Total Breadth of the beam 300 
+concrete M30 
+Steel Fe415 
+Self weight of the beam 4 
+Total uniformly distributed load on the beam including self wt. is 19 
+Ultimate UDL after applyiny safety factor 1.5 is 28 
+The effective length of the beam 8 
+Beading moment on the both end of the beam 248 
+Shear Force of the beam 119 
+Now depth checking.
+Required depth of the beam 447 
+Provided depth of the beam 533 
+so...
+Maximum moment can be taken by the beam 353 
+Bendign moment generate 248 
+so ..
+Area of the steel required 1479 
+Provide 8  - 16mm phi @ tension side.
+So, the area of the steel will be 1608 
+Minimum and Maximum steel required in tension side 327and 6760 
+so..
+Nominal shear stress 0 
+Persentage of nominal reinforcement 1 
+From IS456:2000 tablw 19 critical shear will be 0 
+As the critical shear is less than nominal shear so, we will provide vertical stirrups.
+Shear resistance of concrete 105 
+Shear carried by the stirrups 13 
+Some spacing values for providing stirrups 1392.1068348918473,  302.47254068762527,  400.0 
+So, provide 8 mm phi 2LVS @ 300mm c/c.
+
